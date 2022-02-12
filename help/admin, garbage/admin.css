@@ -1,0 +1,88 @@
+/* Style the search box */
+#mySearch {
+   top: 50%;
+    width: 20%;
+    font-size: 18px;
+    padding: 11px;
+    border: 1px solid #ddd;
+  }
+
+  .button{
+    
+    width: 80px;
+    height: 50px;
+    background-color:rgb(111, 111, 180) 136, 184);
+    color: brown;
+    
+  }  
+  a{
+    text-decoration: none;
+  
+  }
+
+  
+  .container {
+    position: relative;
+    text-align: center;
+    color: rgb(233, 232, 236);
+  }
+  .bottom-left {
+    position: absolute;
+    top: 8px;
+    left: 30px;
+    width: 4%;
+    height: 2%;
+    background-color: aquamarine;
+    border-radius: 5px;
+   
+  }
+
+  .button:hover{
+    background-color: cyan;
+    top: 8px;
+  }
+   
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  p{
+    font-size: 40px;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+    
+  }
+  img{
+    
+    width: 1700px;
+    height: 880px;
+    
+
+  }
+  .search{
+    display: block;
+   position: relative;
+    top: 100%;
+    left: 38.3%;
+    width:200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(188, 233, 233);
+    
+    
+  }
+  .search:hover{
+    background-color: deepskyblue;
+  }
+  .mysearch{
+    width: 310px;
+    height: 32px;
+    border-radius: 5px;
+    
+  }
+  

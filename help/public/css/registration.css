@@ -1,0 +1,84 @@
+* {box-sizing: border-box}
+
+
+
+.first_div{
+ 
+  width: 700px;
+  left: 30%;
+  
+}
+/* Add padding to containers */
+.container {
+  
+background-color:#7d71be;
+opacity: 90%;
+height: 730px;
+
+}
+
+/* Full-width input fields */
+input{
+ 
+  
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registr_btn{
+  background-color: #432dc5;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+  opacity: 0.9;
+  border-radius: 5px;
+}
+
+.registr_btn:hover {
+  width: 16%;
+    height: 50px;
+  opacity:1;
+  border-radius: 5px;
+}
+
+/* Add a blue text color to links */
+a {
+  color: #1c3750;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.container_sig{
+  background-color: #f1f1f1;
+  text-align: center;
+  position:absolute;
+  left: 41.5%;
+
+    top: 0px;
+}
+
+  img{
+    display:inline-block;
+    height: 700px;
+    
+    
+    
+    opacity:50%;
+  
+ 
+

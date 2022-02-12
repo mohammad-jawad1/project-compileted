@@ -1,0 +1,53 @@
+.bottom-left {
+    position: absolute;
+    top: 250px;
+    left: 400px;
+
+
+  }
+  .pic{
+    width: 1200px;
+    height: 500px;
+  }
+  img{
+    width: 1285px;
+    height: 615px;
+  }
+  .btnf{
+      border-radius: 5px;
+      background-color: aquamarine;
+      width: 80px;
+      height: 50px;
+      color: black;
+    
+
+  }
+
+  .bottom-right {
+    position: absolute;
+    top: 250px;
+    right: 450px;
+
+
+  }
+
+  .btns{
+
+    border-radius: 5px;
+    background-color: aquamarine;
+    width: 80px;
+    height: 50px;
+    color: black;
+
+
+}
+a{
+      text-decoration: none;
+}
+button:hover{
+
+        width: 90px;
+        height: 60px;
+        background-color: blueviolet;
+        color: burlywood;
+}
